@@ -1,0 +1,11 @@
+{
+    "name": "Feinianyu-Atable",
+    "display_name": "Feinianyu's Atable Extension",
+    "author": "Feinianyu",
+    "description": "Adds @mention functionality and character list management.",
+    "version": "1.0.0",
+    "js": "dist/index.js",
+    "css": "src/style.css",
+    "generate_interceptor": "feinianyuAtableInterceptor",
+    "requires": []
+}
